@@ -1,0 +1,4 @@
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi\obj\Debug\netcoreapp2.2\AucklandTransportApi.Console.csprojAssemblyReference.cache
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi\obj\Debug\netcoreapp2.2\AucklandTransportApi.Console.csproj.CoreCompileInputs.cache
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi\obj\Debug\netcoreapp2.2\AucklandTransportApi.Console.AssemblyInfoInputs.cache
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi\obj\Debug\netcoreapp2.2\AucklandTransportApi.Console.AssemblyInfo.cs

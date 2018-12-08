@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.WinConsole", "AucklandTransportApi\AucklandTransportApi.WinConsole.csproj", "{1A41361D-0EDC-4B77-8631-3532918BAF88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.Core.Tests", "AucklandTransportApi.Core.Tests\AucklandTransportApi.Core.Tests.csproj", "{4CFD24C0-13C9-4AF1-8D55-D5576F5624A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.Core", "AucklandTransportApi.Core\AucklandTransportApi.Core.csproj", "{584F7504-A2B5-4F48-879A-52C1AD4D6428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A41361D-0EDC-4B77-8631-3532918BAF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A41361D-0EDC-4B77-8631-3532918BAF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A41361D-0EDC-4B77-8631-3532918BAF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A41361D-0EDC-4B77-8631-3532918BAF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CFD24C0-13C9-4AF1-8D55-D5576F5624A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFD24C0-13C9-4AF1-8D55-D5576F5624A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFD24C0-13C9-4AF1-8D55-D5576F5624A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFD24C0-13C9-4AF1-8D55-D5576F5624A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584F7504-A2B5-4F48-879A-52C1AD4D6428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584F7504-A2B5-4F48-879A-52C1AD4D6428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584F7504-A2B5-4F48-879A-52C1AD4D6428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584F7504-A2B5-4F48-879A-52C1AD4D6428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1788C54-EA01-4191-8FA9-2B0ADCFD330A}
+	EndGlobalSection
+EndGlobal

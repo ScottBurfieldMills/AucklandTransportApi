@@ -1,0 +1,9 @@
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\bin\Debug\netcoreapp2.2\AucklandTransportApi.Core.deps.json
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\bin\Debug\netcoreapp2.2\AucklandTransportApi.Core.dll
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\obj\Debug\netcoreapp2.2\AucklandTransportApi.Core.csproj.CoreCompileInputs.cache
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\obj\Debug\netcoreapp2.2\AucklandTransportApi.Core.AssemblyInfoInputs.cache
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\obj\Debug\netcoreapp2.2\AucklandTransportApi.Core.AssemblyInfo.cs
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\bin\Debug\netcoreapp2.2\AucklandTransportApi.Core.pdb
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\obj\Debug\netcoreapp2.2\AucklandTransportApi.Core.dll
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\obj\Debug\netcoreapp2.2\AucklandTransportApi.Core.pdb
+c:\users\scott\source\repos\AucklandTransportApi\AucklandTransportApi.Core\obj\Debug\netcoreapp2.2\AucklandTransportApi.Core.csprojAssemblyReference.cache
