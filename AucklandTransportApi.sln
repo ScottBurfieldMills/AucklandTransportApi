@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28315.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.WinConsole", "AucklandTransportApi\AucklandTransportApi.WinConsole.csproj", "{1A41361D-0EDC-4B77-8631-3532918BAF88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.WinConsole", "AucklandTransportApi.WinConsole\AucklandTransportApi.WinConsole.csproj", "{1A41361D-0EDC-4B77-8631-3532918BAF88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.Core.Tests", "AucklandTransportApi.Core.Tests\AucklandTransportApi.Core.Tests.csproj", "{4CFD24C0-13C9-4AF1-8D55-D5576F5624A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.Tests", "AucklandTransportApi.Tests\AucklandTransportApi.Tests.csproj", "{4CFD24C0-13C9-4AF1-8D55-D5576F5624A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi.Core", "AucklandTransportApi.Core\AucklandTransportApi.Core.csproj", "{584F7504-A2B5-4F48-879A-52C1AD4D6428}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AucklandTransportApi", "AucklandTransportApi\AucklandTransportApi.csproj", "{584F7504-A2B5-4F48-879A-52C1AD4D6428}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

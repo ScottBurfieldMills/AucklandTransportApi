@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "AucklandTransportApi/1.0.0": {
+      "AucklandTransportApi.WinConsole/1.0.0": {
         "dependencies": {
-          "Newtonsoft.Json": "12.0.1"
+          "AucklandTransportApi": "1.0.0"
         },
         "runtime": {
-          "AucklandTransportApi.dll": {}
+          "AucklandTransportApi.WinConsole.dll": {}
         }
       },
       "Newtonsoft.Json/12.0.1": {
@@ -21,11 +21,19 @@
             "fileVersion": "12.0.1.22727"
           }
         }
+      },
+      "AucklandTransportApi/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "AucklandTransportApi.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "AucklandTransportApi/1.0.0": {
+    "AucklandTransportApi.WinConsole/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -36,6 +44,11 @@
       "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
       "path": "newtonsoft.json/12.0.1",
       "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "AucklandTransportApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
